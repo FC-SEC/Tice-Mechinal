@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tice Mechinal</title>
+  </head>
+  <body bgcolor="#b0b4ba">
+    <h1>Tice Mechinal</h1>
+    <h2><strong><em>What We Offer.</em></strong></h2>
+    <ul>
+      <li><strong>Text.</strong></li>
+      <li><strong>More Text</strong></li>
+      <li><strong>Even More Text</strong></li>
+    </ul>
+  </body>
+</html>
