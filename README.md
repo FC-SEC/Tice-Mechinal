@@ -1,2 +1,4 @@
 # Tice-Mechinal
-The tice mechinal wensite code.
+The tice mechanical website.
+
+REPO's name has a typo
